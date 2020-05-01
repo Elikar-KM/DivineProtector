@@ -1,0 +1,10 @@
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\bin\Debug\DivineProtector.exe.config
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\bin\Debug\DivineProtector.exe
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\bin\Debug\DivineProtector.pdb
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.csprojAssemblyReference.cache
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.Form1.resources
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.Properties.Resources.resources
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.csproj.GenerateResource.cache
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.csproj.CoreCompileInputs.cache
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.exe
+C:\Users\kenuc\source\repos\DivineProtector\DivineProtector\obj\Debug\DivineProtector.pdb
